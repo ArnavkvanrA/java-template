@@ -9,7 +9,7 @@ public class App {
         System.out.println("'trivia' for some Chipotle-related trivia.");
         System.out.println("'menu' if you want a breakdown of our menu.");
         System.out.println("'order' if you want to build an order.");
-        System.out.println("'bye' to end the chat.");\
+        System.out.println("'bye' to end the chat.");
         boolean end = false;
         String input = scanner.nextLine();
         chilliredo error = new chilliredo();
